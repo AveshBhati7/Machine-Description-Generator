@@ -1,0 +1,14 @@
+PyPDF2 - For PDF file processing
+pinecone-client - For vector database operations
+scikit-learn - For machine learning utilities
+langchain-pinecone - For integration between LangChain and Pinecone
+langchain-community - For community components of LangChain
+langchain_groq - For Groq LLM integration
+pandas - For data manipulation
+tqdm - For progress bars
+numpy - For numerical operations
+langchain_text_splitters - For text splitting functionality
+langchain.docstore.document - For document handling
+langchain_core.prompts - For prompt templates
+json - For JSON data handling
+re - For regular expression operations
